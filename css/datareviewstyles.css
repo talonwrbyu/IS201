@@ -1,0 +1,61 @@
+body {
+    background-color:firebrick;
+    color:white;
+}
+
+h1 {
+    color:white;
+    margin:auto;
+}
+h2{
+    color:white;
+    margin:auto;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+img{
+    max-width: 500px;
+    margin:auto;
+    align-items:center
+}
+li{
+    color:white;
+
+}
+.listheader{
+    color:aquamarine;
+    font-weight: 900;
+}
+.header{
+    top:5px;
+    left:5px;
+    right:5px;
+    height:100px;
+}
+.leftmenu{
+    top: 108px;
+    left:5px;
+    width:250px;
+    bottom:108px;
+}
+.mainbody{
+    top: 108px;
+    left: 268px;
+    right:268px;
+    bottom:108px;
+}
+.rightmenu{
+    top: 108px;
+    right:5px;
+    width:250px;
+    bottom:108px;
+}
+.footer{
+    left:5px;
+    right:5px;
+    height:100px;
+    bottom:5px;
+    font-size:8px;
+    text-align:center;
+    padding-top:15px;
+    position:fixed;
+}
